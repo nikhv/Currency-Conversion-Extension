@@ -1,0 +1,16 @@
+*{
+    padding: 3px;
+    background: black;
+    color: wheat;
+    font-size: 14px;
+}
+p{
+    text-align: center;
+}
+.container{
+    /* background-color: red; */
+   display: flex;
+   flex-direction: column; 
+   justify-content: center;
+   text-align: center;
+}
